@@ -1,1 +1,1 @@
-Value Added Course.
+10 Day VAC DSA course(60hrs).
